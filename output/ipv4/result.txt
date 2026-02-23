@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2026-02-23 18:59:18,http://23.237.228.134/live5/CCTV1.m3u8
+2026-02-24 06:54:45,http://23.237.228.134/live5/CCTV1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
-CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
@@ -32,10 +32,10 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
@@ -59,9 +59,8 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 
 ☘️上海频道,#genre#
 全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
-新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
@@ -88,7 +87,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
-金鹰卡通,http://125.42.150.177:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 
 🎮游戏频道,#genre#
