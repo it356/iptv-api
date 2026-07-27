@@ -1,17 +1,17 @@
 🕘️更新时间,#genre#
-2026-07-27 21:19:01,http://60.4.29.80:8077/rtp/239.253.92.181:6046
+2026-07-28 07:14:32,http://115.171.216.40:4000/rtp/225.1.8.20:8004
 
 📺央视频道,#genre#
-CCTV-5,http://60.4.29.80:8077/rtp/239.253.92.181:6046
-CCTV-5,http://60.4.29.80:8077/rtp/239.253.92.82:8013
-CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.20:8004
-CCTV-5,http://112.192.72.188:8484/rtp/239.0.0.14:5140
-CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
-CCTV-5,http://112.192.73.95:8484/rtp/239.0.0.14:5140
+CCTV-5,http://60.4.29.80:8077/rtp/239.253.92.82:8013
+CCTV-5,http://60.4.29.80:8077/rtp/239.253.92.181:6046
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
-CCTV-5,http://183.164.237.86:8888/rtp/238.1.78.171:7240
-CCTV-5,http://112.192.73.95:8484/rtp/239.0.0.22:5140
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
+CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.80:8000
+CCTV-5,http://121.237.245.33:8888/rtp/239.49.1.5:6000
+CCTV-5,http://39.77.158.228:4002/rtp/239.253.254.192:8000
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
@@ -36,8 +36,6 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
-全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
@@ -51,6 +49,10 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 🎬电影频道,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
+CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
+CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🎥咪咕直播,#genre#
