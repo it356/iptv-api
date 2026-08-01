@@ -1,17 +1,20 @@
 🕘️更新时间,#genre#
-2026-08-01 07:12:24,http://115.171.216.40:4000/rtp/225.1.8.89:8000
+2026-08-01 19:26:12,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
 
 📺央视频道,#genre#
-CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
-CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.80:8000
-CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.20:8004
-CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
+CCTV-3,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
 CCTV-5,http://39.77.158.228:4002/rtp/239.253.254.192:8000
-CCTV-5,http://39.77.163.221:4002/rtp/239.253.254.192:8000
+CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.80:8000
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.20:8004
+CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.89:8000
+CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
 CCTV-7,http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
+CCTV-10,http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
+CCTV-10,http://204.12.221.218:8181/3m1080p/cctv10.m3u8
+CCTV-13,http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 💰央视付费频道,#genre#
@@ -22,13 +25,11 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://182.114.50.55:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
-湖北卫视,http://182.114.50.55:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
-深圳卫视,http://182.114.50.55:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://139.227.21.22:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️北京频道,#genre#
 北京卡酷少儿,http://204.12.221.218:8181/3m1080p/btvkk.m3u8
@@ -37,6 +38,7 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
+全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
 全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
