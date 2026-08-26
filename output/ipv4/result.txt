@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-26 06:36:37,http://115.171.216.40:4000/rtp/225.1.8.20:8004
+2026-08-26 18:44:13,http://115.171.216.40:4000/rtp/225.1.8.20:8004
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.20:8004
@@ -25,6 +25,7 @@ CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 
 ☘️上海频道,#genre#
 东方影视,http://38.75.136.137:98/gslb/dsdqpub/shdsjhd.m3u8?auth=testpub
+全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
